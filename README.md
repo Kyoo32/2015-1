@@ -9,7 +9,9 @@ NEXT 2015 first semester, 2015 mar-june
 5. Humanities
 
 ## another study
-* c language
+* c language : [docs](https://docs.google.com/document/d/1NBwPaNGd-PsmKFGA9ggbFW2oZRqANg3duucYrNj9TUo/edit?usp=sharing)
+			   [contents](https://docs.google.com/spreadsheets/d/1I-Es89csjbxkNQtvkf5Rxfzbw__ydN2i5uY_BkqjsVI/edit?usp=sharing)
+
 
 ## wiki
 [contents](https://github.com/Kyoo32/NEXT2015-1/wiki)
